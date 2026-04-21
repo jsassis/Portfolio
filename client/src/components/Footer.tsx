@@ -27,7 +27,7 @@ export default function Footer() {
                 { label: "Resultados", href: "#resultados" },
                 { label: "Sobre Mim", href: "#sobre" },
                 { label: "Depoimentos", href: "#depoimentos" },
-                { label: "Contato", href: "#contato" },
+                { label: "Entre em Contato", href: "#contato" },
               ].map((link) => (
                 <a
                   key={link.href}

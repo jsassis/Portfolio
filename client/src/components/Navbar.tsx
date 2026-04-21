@@ -12,6 +12,7 @@ const navLinks = [
   { label: "Resultados", href: "#resultados" },
   { label: "Sobre Mim", href: "#sobre" },
   { label: "Depoimentos", href: "#depoimentos" },
+  { label: "Entre em Contato", href: "#contato" },
 ];
 
 export default function Navbar() {
